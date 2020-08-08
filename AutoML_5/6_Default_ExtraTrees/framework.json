@@ -1,0 +1,669 @@
+{
+    "uid": "e8cf04ad-05e1-421c-9ff4-2f3b1b3922c1",
+    "name": "6_Default_ExtraTrees",
+    "preprocessing": [
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "bf121013-d44c-4682-bf9a-5502bb5e5df5",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "12716ad2-1dce-43db-bb90-7a75f418ef26",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "1a96b39e-848d-4118-b433-1d662b847033",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "e1510328-7b13-4b50-afc1-36d925d1cfa9",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "0b1effaf-0b8e-4c87-b879-c489d88d9521",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "f956babb-243d-4a66-be2d-359990c0be22",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "639386b4-bb6e-4681-af71-9ec18371cbe2",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "8119bf96-93a5-483c-8327-81b172851564",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "46b6cc67-419b-4fd1-8986-a11bebb97041",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "0.22.2",
+            "algorithm_name": "Extra Trees Classifier",
+            "algorithm_short_name": "Extra Trees",
+            "uid": "ee40a8af-774a-470b-8395-fd9401e3a3a5",
+            "params": {
+                "model_type": "Extra Trees",
+                "ml_task": "binary_classification",
+                "criterion": "gini",
+                "max_features": 0.6,
+                "min_samples_split": 30,
+                "max_depth": 6,
+                "seed": 6,
+                "explain_level": 0
+            }
+        }
+    ],
+    "params": {
+        "additional": {
+            "trees_in_step": 100,
+            "max_steps": 50,
+            "early_stopping_rounds": 50,
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "last_open_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_login_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_checkout_day_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_1_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_2_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_3_nan": [
+                    "categorical_to_int"
+                ],
+                "age_nan": [
+                    "categorical_to_int"
+                ],
+                "domain_nan": [
+                    "categorical_to_int"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude"
+            ],
+            "ml_task": "binary_classification"
+        },
+        "validation": {
+            "validation_type": "kfold",
+            "k_folds": 10,
+            "shuffle": true,
+            "stratify": true,
+            "X_train_path": "AutoML_5/X_train.parquet",
+            "y_train_path": "AutoML_5/y_train.parquet",
+            "results_path": "AutoML_5"
+        },
+        "learner": {
+            "model_type": "Extra Trees",
+            "ml_task": "binary_classification",
+            "criterion": "gini",
+            "max_features": 0.6,
+            "min_samples_split": 30,
+            "max_depth": 6,
+            "seed": 6,
+            "explain_level": 0
+        },
+        "ml_task": "binary_classification",
+        "explain_level": 0,
+        "name": "6_Default_ExtraTrees"
+    },
+    "saved": [
+        "AutoML_5/6_Default_ExtraTrees/learner_1.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_2.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_3.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_4.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_5.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_6.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_7.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_8.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_9.extra_trees",
+        "AutoML_5/6_Default_ExtraTrees/learner_10.extra_trees"
+    ],
+    "predictions_fname": "AutoML_5/6_Default_ExtraTrees/predictions_out_of_folds.csv",
+    "metric_name": "logloss",
+    "final_loss": 0.3015938006325861,
+    "train_time": 43.10259485244751,
+    "is_stacked": false,
+    "threshold": 0.2868123175626448
+}

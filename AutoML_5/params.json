@@ -1,0 +1,17 @@
+{
+    "ml_task": "binary_classification",
+    "optimize_metric": "logloss",
+    "saved": [
+        "AutoML_5/1_DecisionTree",
+        "AutoML_5/2_DecisionTree",
+        "AutoML_5/3_DecisionTree",
+        "AutoML_5/4_Linear",
+        "AutoML_5/5_Default_RandomForest",
+        "AutoML_5/6_Default_ExtraTrees",
+        "AutoML_5/7_Default_Xgboost",
+        "AutoML_5/8_Default_LightGBM",
+        "AutoML_5/9_Default_CatBoost",
+        "AutoML_5/10_Default_NeuralNetwork",
+        "AutoML_5/Ensemble"
+    ]
+}

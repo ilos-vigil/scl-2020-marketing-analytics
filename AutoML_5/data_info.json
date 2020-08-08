@@ -1,0 +1,128 @@
+{
+    "columns": [
+        "country_code",
+        "subject_line_length",
+        "last_open_day",
+        "last_login_day",
+        "last_checkout_day",
+        "open_count_last_10_days",
+        "open_count_last_30_days",
+        "open_count_last_60_days",
+        "login_count_last_10_days",
+        "login_count_last_30_days",
+        "login_count_last_60_days",
+        "checkout_count_last_10_days",
+        "checkout_count_last_30_days",
+        "checkout_count_last_60_days",
+        "attr_1",
+        "attr_2",
+        "attr_3",
+        "age",
+        "domain",
+        "day",
+        "last_open_day_nan",
+        "last_login_day_nan",
+        "last_checkout_day_nan",
+        "attr_1_nan",
+        "attr_2_nan",
+        "attr_3_nan",
+        "age_nan",
+        "domain_nan"
+    ],
+    "rows": 73539,
+    "cols": 28,
+    "target_is_numeric": true,
+    "columns_info": {
+        "country_code": [
+            "scale"
+        ],
+        "subject_line_length": [
+            "scale"
+        ],
+        "last_open_day": [
+            "scale"
+        ],
+        "last_login_day": [
+            "scale"
+        ],
+        "last_checkout_day": [
+            "scale"
+        ],
+        "open_count_last_10_days": [
+            "scale"
+        ],
+        "open_count_last_30_days": [
+            "scale"
+        ],
+        "open_count_last_60_days": [
+            "scale"
+        ],
+        "login_count_last_10_days": [
+            "scale"
+        ],
+        "login_count_last_30_days": [
+            "scale"
+        ],
+        "login_count_last_60_days": [
+            "scale"
+        ],
+        "checkout_count_last_10_days": [
+            "scale"
+        ],
+        "checkout_count_last_30_days": [
+            "scale"
+        ],
+        "checkout_count_last_60_days": [
+            "scale"
+        ],
+        "attr_1": [
+            "scale"
+        ],
+        "attr_2": [
+            "scale"
+        ],
+        "attr_3": [
+            "scale"
+        ],
+        "age": [
+            "scale"
+        ],
+        "domain": [],
+        "day": [
+            "scale"
+        ],
+        "last_open_day_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "last_login_day_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "last_checkout_day_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "attr_1_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "attr_2_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "attr_3_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "age_nan": [
+            "categorical",
+            "categorical_to_int"
+        ],
+        "domain_nan": [
+            "categorical",
+            "categorical_to_int"
+        ]
+    },
+    "target_info": []
+}

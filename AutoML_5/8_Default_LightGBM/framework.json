@@ -1,0 +1,701 @@
+{
+    "uid": "89bbec81-e3d6-47c6-b8bf-55c2f40dc0f8",
+    "name": "8_Default_LightGBM",
+    "preprocessing": [
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "a714c8c0-cdf2-464e-be66-82d5547f47da",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "2ad40578-fa4a-46c7-862f-6e1ebff73ec0",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "fe6abfed-4d7c-44c3-b773-12c84e287708",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "c232e50d-7ef2-4dd4-92af-eef211e04354",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "33524617-d333-4cff-925f-75fe53606696",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "abc9fa06-553d-4fe4-a6d2-a69fe88db514",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "0fe70622-d960-4ff6-8df5-f0e565769f93",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "1a8c96ce-08ca-44b9-8c1d-ec9b85f2bc39",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "a7e5ed0f-8520-4962-9772-e8a4af37dfe4",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        },
+        {
+            "library_version": "2.3.1",
+            "algorithm_name": "LightGBM",
+            "algorithm_short_name": "LightGBM",
+            "uid": "0c221cb0-7273-4460-870a-35f5f9968cf5",
+            "params": {
+                "model_type": "LightGBM",
+                "ml_task": "binary_classification",
+                "objective": "binary",
+                "metric": "binary_logloss",
+                "num_leaves": 31,
+                "learning_rate": 0.1,
+                "feature_fraction": 0.9,
+                "bagging_fraction": 0.9,
+                "min_data_in_leaf": 10,
+                "seed": 8,
+                "explain_level": 0
+            }
+        }
+    ],
+    "params": {
+        "additional": {
+            "max_rounds": 10000,
+            "early_stopping_rounds": 50,
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "last_open_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_login_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_checkout_day_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_1_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_2_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_3_nan": [
+                    "categorical_to_int"
+                ],
+                "age_nan": [
+                    "categorical_to_int"
+                ],
+                "domain_nan": [
+                    "categorical_to_int"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude"
+            ],
+            "ml_task": "binary_classification"
+        },
+        "validation": {
+            "validation_type": "kfold",
+            "k_folds": 10,
+            "shuffle": true,
+            "stratify": true,
+            "X_train_path": "AutoML_5/X_train.parquet",
+            "y_train_path": "AutoML_5/y_train.parquet",
+            "results_path": "AutoML_5"
+        },
+        "learner": {
+            "model_type": "LightGBM",
+            "ml_task": "binary_classification",
+            "objective": "binary",
+            "metric": "binary_logloss",
+            "num_leaves": 31,
+            "learning_rate": 0.1,
+            "feature_fraction": 0.9,
+            "bagging_fraction": 0.9,
+            "min_data_in_leaf": 10,
+            "seed": 8,
+            "explain_level": 0
+        },
+        "ml_task": "binary_classification",
+        "explain_level": 0,
+        "name": "8_Default_LightGBM"
+    },
+    "saved": [
+        "AutoML_5/8_Default_LightGBM/learner_1.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_2.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_3.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_4.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_5.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_6.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_7.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_8.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_9.lightgbm",
+        "AutoML_5/8_Default_LightGBM/learner_10.lightgbm"
+    ],
+    "predictions_fname": "AutoML_5/8_Default_LightGBM/predictions_out_of_folds.csv",
+    "metric_name": "logloss",
+    "final_loss": 0.2785467404770703,
+    "train_time": 12.698144674301147,
+    "is_stacked": false,
+    "threshold": 0.29628012573107465
+}

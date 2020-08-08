@@ -1,0 +1,711 @@
+{
+    "uid": "303dbe71-fd1c-40d3-8e4f-85eb46f19506",
+    "name": "7_Default_Xgboost",
+    "preprocessing": [
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        },
+        {
+            "categorical": [
+                {
+                    "convert_method": "categorical_to_int",
+                    "convert_params": {
+                        "last_open_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_login_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "last_checkout_day_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_1_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_2_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "attr_3_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "age_nan": {
+                            "False": 0,
+                            "True": 1
+                        },
+                        "domain_nan": {
+                            "False": 0,
+                            "True": 1
+                        }
+                    }
+                }
+            ],
+            "ml_task": "binary_classification"
+        }
+    ],
+    "learners": [
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "f6d73040-a1fc-42c8-b411-030e5bbdbcfb",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 105
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "4d54ea2f-f853-482b-aac4-d7057f8d1b37",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 123
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "f4531795-496d-4471-bb5f-5b78b893635b",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 207
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "b5d0778a-6024-4583-bded-17579763287c",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 118
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "39fefc17-8bce-42cc-abce-0b7a2ef9fc11",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 110
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "ae9e795b-1853-4522-8ffb-54abf27d9fe7",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 138
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "9d9bd652-2112-47cd-ac28-23538f549d04",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 79
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "af32d593-84e7-469f-addb-db1d567a5621",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 132
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "5004863f-76a9-4ab8-b69a-7af266270bc4",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 163
+        },
+        {
+            "library_version": "1.0.2",
+            "algorithm_name": "Extreme Gradient Boosting",
+            "algorithm_short_name": "Xgboost",
+            "uid": "5667b6ee-692e-4e7f-9645-2fca6dbf093a",
+            "params": {
+                "model_type": "Xgboost",
+                "ml_task": "binary_classification",
+                "objective": "binary:logistic",
+                "eval_metric": "logloss",
+                "eta": 0.1,
+                "max_depth": 6,
+                "min_child_weight": 1,
+                "subsample": 1.0,
+                "colsample_bytree": 1.0,
+                "seed": 7,
+                "explain_level": 0
+            },
+            "best_ntree_limit": 130
+        }
+    ],
+    "params": {
+        "additional": {
+            "max_rounds": 10000,
+            "early_stopping_rounds": 50,
+            "max_rows_limit": null,
+            "max_cols_limit": null
+        },
+        "preprocessing": {
+            "columns_preprocessing": {
+                "last_open_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_login_day_nan": [
+                    "categorical_to_int"
+                ],
+                "last_checkout_day_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_1_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_2_nan": [
+                    "categorical_to_int"
+                ],
+                "attr_3_nan": [
+                    "categorical_to_int"
+                ],
+                "age_nan": [
+                    "categorical_to_int"
+                ],
+                "domain_nan": [
+                    "categorical_to_int"
+                ]
+            },
+            "target_preprocessing": [
+                "na_exclude"
+            ],
+            "ml_task": "binary_classification"
+        },
+        "validation": {
+            "validation_type": "kfold",
+            "k_folds": 10,
+            "shuffle": true,
+            "stratify": true,
+            "X_train_path": "AutoML_5/X_train.parquet",
+            "y_train_path": "AutoML_5/y_train.parquet",
+            "results_path": "AutoML_5"
+        },
+        "learner": {
+            "model_type": "Xgboost",
+            "ml_task": "binary_classification",
+            "objective": "binary:logistic",
+            "eval_metric": "logloss",
+            "eta": 0.1,
+            "max_depth": 6,
+            "min_child_weight": 1,
+            "subsample": 1.0,
+            "colsample_bytree": 1.0,
+            "seed": 7,
+            "explain_level": 0
+        },
+        "ml_task": "binary_classification",
+        "explain_level": 0,
+        "name": "7_Default_Xgboost"
+    },
+    "saved": [
+        "AutoML_5/7_Default_Xgboost/learner_1.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_2.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_3.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_4.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_5.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_6.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_7.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_8.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_9.xgboost",
+        "AutoML_5/7_Default_Xgboost/learner_10.xgboost"
+    ],
+    "predictions_fname": "AutoML_5/7_Default_Xgboost/predictions_out_of_folds.csv",
+    "metric_name": "logloss",
+    "final_loss": 0.27870790809747814,
+    "train_time": 28.86857771873474,
+    "is_stacked": false,
+    "threshold": 0.30095428228378296
+}
