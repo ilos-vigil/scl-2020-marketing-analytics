@@ -1,4 +1,4 @@
-# Shopee Code League 2020 - Sentiment Analysis
+# Shopee Code League 2020 - Marketing Analytics
 
 This is source code/solution for 7th place (top 2%) in Private LB with score ? of [[Student] Shopee Code League 2020 - Marketing Analytics](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics). Check [Overview Archive](https://www.kaggle.com/c/student-shopee-code-league-marketing-analytics/overview) and [Leaderboard Archive](https://archive.is/9X9tt) if Kaggle is down or the link is invalid.
 
